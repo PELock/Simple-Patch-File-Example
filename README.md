@@ -2,4 +2,4 @@
 An example of how to patch files, using C++ for Windows platform.
 
 Bartosz Wójcik
-http://www.pelock.com
+https://www.pelock.com
